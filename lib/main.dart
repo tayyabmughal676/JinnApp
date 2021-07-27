@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
     const title = 'Get My Position';
     return MaterialApp(
       title: title,
+
       home: Scaffold(
           appBar: AppBar(
             title: const Text(title),
