@@ -1,0 +1,4 @@
+#Tue Jul 27 18:03:09 PKT 2021
+base.0=/Users/thor/Desktop/flutter_projects/get_position/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
